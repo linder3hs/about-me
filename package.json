@@ -2,7 +2,7 @@
   "name": "aboutme",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/linder3hs/about-me",
+  "homepage": "https://linder3hs.github.io/about-me/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.5",
