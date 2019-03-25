@@ -1,13 +1,13 @@
 {
-  "main.css": "/linder3hs/about-me/static/css/main.1ecfb7a9.chunk.css",
-  "main.js": "/linder3hs/about-me/static/js/main.e8ac5631.chunk.js",
-  "main.js.map": "/linder3hs/about-me/static/js/main.e8ac5631.chunk.js.map",
-  "runtime~main.js": "/linder3hs/about-me/static/js/runtime~main.a38d6052.js",
-  "runtime~main.js.map": "/linder3hs/about-me/static/js/runtime~main.a38d6052.js.map",
-  "static/js/2.23949cbd.chunk.js": "/linder3hs/about-me/static/js/2.23949cbd.chunk.js",
-  "static/js/2.23949cbd.chunk.js.map": "/linder3hs/about-me/static/js/2.23949cbd.chunk.js.map",
-  "index.html": "/linder3hs/about-me/index.html",
-  "precache-manifest.09e003ba3be4302cd535eca172e5ec0e.js": "/linder3hs/about-me/precache-manifest.09e003ba3be4302cd535eca172e5ec0e.js",
-  "service-worker.js": "/linder3hs/about-me/service-worker.js",
-  "static/css/main.1ecfb7a9.chunk.css.map": "/linder3hs/about-me/static/css/main.1ecfb7a9.chunk.css.map"
+  "main.css": "/about-me/static/css/main.1ecfb7a9.chunk.css",
+  "main.js": "/about-me/static/js/main.229c4b87.chunk.js",
+  "main.js.map": "/about-me/static/js/main.229c4b87.chunk.js.map",
+  "runtime~main.js": "/about-me/static/js/runtime~main.838ee889.js",
+  "runtime~main.js.map": "/about-me/static/js/runtime~main.838ee889.js.map",
+  "static/js/2.23949cbd.chunk.js": "/about-me/static/js/2.23949cbd.chunk.js",
+  "static/js/2.23949cbd.chunk.js.map": "/about-me/static/js/2.23949cbd.chunk.js.map",
+  "index.html": "/about-me/index.html",
+  "precache-manifest.2371ac51af107facef9696805418f47d.js": "/about-me/precache-manifest.2371ac51af107facef9696805418f47d.js",
+  "service-worker.js": "/about-me/service-worker.js",
+  "static/css/main.1ecfb7a9.chunk.css.map": "/about-me/static/css/main.1ecfb7a9.chunk.css.map"
 }
